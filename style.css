@@ -1,0 +1,33 @@
+*{margin:0px;
+padding:0px;
+}
+#container {
+background-color: aquamarine ;
+width:100vw;
+height:100vh;
+padding:10px ;
+display: flex;
+justify-content: center;
+align-items:center ;
+
+}
+.sect {
+    width: 200px; 
+    height:100px;
+    border:1px solid red ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sect01 {flex: 1;
+
+}
+#sect02{flex: 1;
+
+}
+#sect03{ flex: 1;
+
+}
+#sect04{ 
+flex: 1;
+}
